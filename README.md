@@ -1,1 +1,1 @@
-Project: making a simple website whit links
+Project: making a simple website with links containign recepies
